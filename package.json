@@ -1,9 +1,9 @@
 {
   "name": "vue-upload",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "上次插件开发",
-  "author": "liangganggang <liangganggang@quanmeishi.cn>",
-  "private": true,
+  "author": "liangganggang <3249188022@qq.com>",
+  "private": false,
   "main": "dist/vueAjaxUpload.js",
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
