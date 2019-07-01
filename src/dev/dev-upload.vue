@@ -16,7 +16,7 @@ export default {
       options: {
         showProgress: true,
         imagePreview: true,
-        url: "str",
+        url: "https://platform-dev.qms888.com/qmsmicrobusiness/common/file",
         fileUploadName: "ajax-upload",
         limitSize: 1
       }
